@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Movies App</title>
     <link rel="stylesheet" href="/css/main.css">
+    <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
     <livewire:styles>
 </head>
 <body class="font-sans bg-gray-900 text-white">
