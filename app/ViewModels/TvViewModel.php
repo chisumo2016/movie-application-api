@@ -67,7 +67,7 @@ class TvViewModel extends ViewModel
                 'first_air_date',
                 'genres',
            ]);
-        })->dump();
+        });
 //        ->dump()
     }
 

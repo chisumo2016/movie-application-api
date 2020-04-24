@@ -36,7 +36,8 @@ class ActorsViewModel extends ViewModel
                 'id',
                 'known_for',
 
-            ])->dump();
+            ]);
+//            ->dump()
         });
     }
 

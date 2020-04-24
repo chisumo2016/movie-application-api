@@ -4,9 +4,14 @@
     <list default="true" id="2e766e18-8b94-4d4d-a28e-c3457ddb2b11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/ViewModels/ActorViewModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/ViewModels/ActorViewModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/actors/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/actors/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ViewModels/ActorsViewModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/ViewModels/ActorsViewModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ViewModels/TvViewModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/ViewModels/TvViewModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +188,7 @@
       <workItem from="1587067296900" duration="577000" />
       <workItem from="1587130380277" duration="582000" />
       <workItem from="1587133070168" duration="580000" />
-      <workItem from="1587562031021" duration="37698000" />
+      <workItem from="1587562031021" duration="38674000" />
     </task>
     <servers />
   </component>
