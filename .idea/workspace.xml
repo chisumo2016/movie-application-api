@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2e766e18-8b94-4d4d-a28e-c3457ddb2b11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MoviesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MoviesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/movies/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ViewModels/ActorViewModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/ViewModels/ActorViewModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/actors/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/actors/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/movies/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +183,7 @@
       <workItem from="1587067296900" duration="577000" />
       <workItem from="1587130380277" duration="582000" />
       <workItem from="1587133070168" duration="580000" />
-      <workItem from="1587562031021" duration="29552000" />
+      <workItem from="1587562031021" duration="37698000" />
     </task>
     <servers />
   </component>
@@ -192,10 +191,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="935" y="135" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1587583679260">
+    <state x="935" y="135" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1587731649403">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="935" y="135" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1587583679260" />
+    <state x="935" y="135" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1587731649403" />
     <state x="310" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1587133138910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
